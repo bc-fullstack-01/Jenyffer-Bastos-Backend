@@ -1,0 +1,26 @@
+{
+  "name": "jenyffer-bastos-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-server.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1",
+    "start": "nodemon express-fs-static.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc-fullstack-01/Jenyffer-Bastos-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc-fullstack-01/Jenyffer-Bastos-Backend/issues"
+  },
+  "homepage": "https://github.com/bc-fullstack-01/Jenyffer-Bastos-Backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
